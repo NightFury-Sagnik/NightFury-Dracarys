@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagnik Chatterjee</h1>
-<h3 align="center">A passionate web-developer and machine learning enthusiast </h3>
+<h3 align="center">A Passionate Web-Developer and Machine Learning Enthusiast </h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
